@@ -1,3 +1,4 @@
+//กำหนดค่าให้ pound และ inch
 const pound = 0.453592 
 const inch = 0.0254 
     
